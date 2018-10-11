@@ -1,6 +1,6 @@
 # TCCtugas3
 
-Login ke github kemudian  fork repo yang akan dijadikan proyek bersama (repo upstream)
+Login ke github kemudian  fork repo yang akan dijadikan proyek bersama (repo upstream).
 Masuk ke git bash kemudian lakukan clone dengan cara 
 `git clone https://github.com/alimuamar11/TCCtugas3.git`
 Hubungkan repo lokal dengan repo upstream dengan cara mengetikkan di terminal :
